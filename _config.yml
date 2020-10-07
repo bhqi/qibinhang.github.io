@@ -108,4 +108,4 @@ backup:
   theme: next
   message: backup my blog.
   repository:
-    github: git@github.com:qibinhang/qibinhang.github.io.git, backup
+    github: git@github.com:qibinhang/qibinhang.github.io.git,backup
